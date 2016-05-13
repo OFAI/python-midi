@@ -1,0 +1,8 @@
+The code in this directory has been obtained from:
+
+http://www.mxm.dk/products/public/pythonmidi (February 2, 2012)
+
+The apparent author and copyright holder goes by the name of
+Max M.. According to the site, the code is licensed under GPL, but the
+code itself contains neither a copyright notice, nor a licensing
+statement.
