@@ -3,7 +3,7 @@
 
 from sys import stderr
 import logging
-from collections import OrderedDict
+from collections import OrderedDict, defaultdict
 import numpy as np
 from scipy.interpolate import interp1d
 
