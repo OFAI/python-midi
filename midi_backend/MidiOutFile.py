@@ -182,7 +182,7 @@ class MidiOutFile(MidiOutStream):
 #        values: 0-15
         """
         value = (msg_type << 4) + values
-        self.event_slice(fromBytes([MIDI_TIME_CODE, value]))
+        self.event_slice(fromBytes([MTC, value]))
 
     def song_position_pointer(self, value):
         """
